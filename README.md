@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋🏼
 
-<!--
-**Harshit-Dogra/Harshit-Dogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about transforming raw data into meaningful business insights through analytics and Business Intelligence. I enjoy building end-to-end analytics projects that combine data preparation, SQL analysis, interactive dashboards, and business reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Programming & Analytics:** Python, SQL
+- **Business Intelligence:** Power BI
+- **Databases:** MySQL
+- **Spreadsheet Analysis:** Microsoft Excel
+- **Python Libraries:** Pandas, NumPy, SQLAlchemy
+
+## 🎯 Current Focus
+
+- Building end-to-end analytics projects
+- Strengthening SQL for analytics
+- Expanding my portfolio in Sales, E-commerce, and Finance analytics
+
+---
+
+*"Turning data into meaningful business insights."*
