@@ -20,8 +20,8 @@ I'm passionate about transforming raw data into meaningful business insights thr
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** linkedin.com/in/harshit-dogra
-- 
+- **LinkedIn:** [View my profile](www.linkedin.com/in/harshit-dogra/)
+
 ---
 
 *"Turning data into meaningful business insights."*
