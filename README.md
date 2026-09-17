@@ -18,6 +18,10 @@ I'm passionate about transforming raw data into meaningful business insights thr
 - Strengthening SQL for analytics
 - Expanding my portfolio in Sales, E-commerce, and Finance analytics
 
+## 🔗 Connect With Me
+
+- **LinkedIn:** linkedin.com/in/harshit-dogra
+- 
 ---
 
 *"Turning data into meaningful business insights."*
